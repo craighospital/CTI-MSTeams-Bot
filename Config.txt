@@ -15,7 +15,7 @@ us-cert cisa = 2025-04-01T19:00:21
 fr-cert alertes = 2025-04-03T00:00:00
 fr-cert avis = 2025-04-04T00:00:00
 hacker news = 2025-04-04T12:28:00
-schneier on security = 2025-04-04T11:02:25
+schneier on security = 2025-04-04T21:03:48
 ncsc = 743-08-29T10:51:07
 center of internet security = 2025-04-03T21:22:43
 binary defense = 2025-03-25T12:49:58
@@ -320,6 +320,6 @@ ralord = 2025-03-31 02:11:58.781693
 chaos = 2025-03-31 18:32:52.402758
 
 [Misc]
-redflagdomains = 2025-04-03
+redflagdomains = 2025-04-04
 reminder = 2025-03-16
 
