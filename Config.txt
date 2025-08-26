@@ -350,6 +350,6 @@ parse = 2025-08-26 14:44:13.444706
 cephalus = 2025-08-26 15:03:10.616825
 
 [Misc]
-redflagdomains = 2025-08-25
+redflagdomains = 2025-08-26
 reminder = 2025-08-22
 
