@@ -360,6 +360,6 @@ blackshrantac = 2025-10-04 16:39:14.392148
 shinyhunters = 2025-10-03 15:54:30.065707
 
 [Misc]
-redflagdomains = 2025-10-03
+redflagdomains = 2025-10-04
 reminder = 2025-09-23
 
